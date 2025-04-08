@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminDasboard", "AdminDasboard\AdminDasboard.csproj", "{0BC34354-EA48-4CBF-BE3C-98BF4684112C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC34354-EA48-4CBF-BE3C-98BF4684112C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC34354-EA48-4CBF-BE3C-98BF4684112C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC34354-EA48-4CBF-BE3C-98BF4684112C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC34354-EA48-4CBF-BE3C-98BF4684112C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B3BC1F9-E6DB-48D9-B903-0FE339E00C7A}
+	EndGlobalSection
+EndGlobal
